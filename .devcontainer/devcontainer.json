@@ -1,3 +1,4 @@
 {
+    "name": "Entrega AC",
     "build": {"dockerfile": "Dockerfile"}
 }
